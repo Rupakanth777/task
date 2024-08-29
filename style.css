@@ -1,0 +1,47 @@
+fieldset{
+    background-color: rgba(188, 228, 238, 0.8);
+    margin-top: 100px;
+    margin-left: 300px;
+}
+
+*{
+    color: slateblue;
+}
+.adsfaf{
+    color: rgb(40, 14, 212);
+}
+#adsfaf{
+    font-size: xx-large;
+}
+#asd{
+    font-size: x-large;
+}
+#dsa{
+    font-size: large;
+}
+.Very{
+    padding:  40px;
+}
+.Good{
+    padding:  40px;
+}
+.Fair{
+    padding:  40px;
+}
+.Poor{
+    padding:  40px;
+}
+.Very Poor{
+    padding-left:  30px;
+}
+
+.pa{
+    color: darkgrey;
+}
+
+.feedback{
+    background-color: powderblue;
+    color: white;
+    border-radius: 25px;
+    width: 200px;height: 30px;
+}
